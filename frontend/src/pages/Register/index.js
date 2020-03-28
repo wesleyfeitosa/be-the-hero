@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Link, useHistory } from "react-router-dom";
 import { FiArrowLeft } from "react-icons/fi";
+import InputMask from "react-input-mask";
 
 import "./styles.css";
 
@@ -28,11 +29,11 @@ export default function Register() {
     };
 
     try {
-      const responseApi = await api.post('/ongs', data);
+      const responseApi = await api.post("/ongs", data);
       alert(`Seu ID de acesso: ${responseApi.data.id}`);
-      history.push('/');
-    } catch(error) {
-      alert('Erro no cadastro, tente novamente!');
+      history.push("/");
+    } catch (error) {
+      alert("Erro no cadastro, tente novamente!");
     }
   }
 
@@ -66,7 +67,9 @@ export default function Register() {
             value={email}
             onChange={e => setEmail(e.target.value)}
           />
-          <input
+          <InputMask
+            mask="(99) 99999-9999"
+            maskChar=""
             placeholder="Whatsapp"
             value={whatsapp}
             onChange={e => setWhatsapp(e.target.value)}

@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Link, useHistory } from "react-router-dom";
 import { FiArrowLeft } from "react-icons/fi";
+import InputMask from "react-input-mask";
 
 import "./styles.css";
 
@@ -19,10 +20,12 @@ export default function NewIncident() {
   async function handleSubmit(event) {
     event.preventDefault();
 
+    const [, valueWithoutCurrency] = value.split(" ");
+
     const data = {
       title,
       description,
-      value
+      value: valueWithoutCurrency
     };
 
     try {
@@ -30,11 +33,11 @@ export default function NewIncident() {
         headers: { authorization: ongId }
       });
 
-      history.push('/profile');
+      history.push("/profile");
 
       alert(`Caso de id nº ${responseApi.data.id} criado com sucesso!`);
-    } catch(error) {
-      alert('Erro ao criar um novo caso, tente novamente!');
+    } catch (error) {
+      alert("Erro ao criar um novo caso, tente novamente!");
     }
   }
 
@@ -68,7 +71,9 @@ export default function NewIncident() {
             onChange={e => setDescription(e.target.value)}
           />
 
-          <input
+          <InputMask
+            mask="R$ 99999"
+            maskChar=""
             placeholder="Valor em reais"
             value={value}
             onChange={e => setValue(e.target.value)}
