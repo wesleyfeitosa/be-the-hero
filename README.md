@@ -21,10 +21,10 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-tecnologias"> :rocket: Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">🤔 Como Contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">🔖 Como Executar</a>&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies"> :rocket: Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">💻 Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">🤔 How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-run">🔖 How to run</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -33,47 +33,47 @@
   <img alt="Frontend" src="frontend/src/assets/banner.png" width="100%">
 </p>
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 💻 Projeto
+## 💻 Project
 
-O Be The Hero é um projeto que facilita a vida dos heróis em salvar o dia, tornando possível o usuário visualizar casos publicados por ONGs e entrar em contato com elas via E-mail ou WhatsApp, ou no caso de uma ONG, se cadastrar e encontrar um herói.
+Be The Hero is a project that makes it easier for heroes to save the day, making it possible for users to view cases published by ONGs and contact them via E-mail or WhatsApp, or in the case of an ONG, register and find a hero.
 
-## 🤔 Como contribuir
+## 🤔 How to contribute
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b minha-feature`;
+- Commit your changes: `git commit -m 'feat: Minha nova feature'`;
+- Push to your branch: `git push origin minha-feature`.
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+After the merge of your pull request is done, you can delete your branch.
 
-## 🔖 Como Executar
+## 🔖 How to run
 
-#### Clonando o projeto
+#### Cloning the project
 ```sh
-git clone https://github.com/apsampaio/semana-omnistack-11.git
-cd semana-omnistack-11
+git clone https://github.com/wesleyfeitosa/be-the-hero.git
+cd be-the-hero
 npm install
 ```
-#### Iniciando Backend
+#### Starting Backend
 ```sh
 cd backend
 npm start
 ```
-#### Iniciando Frontend
+#### Starting Frontend
 ```sh
 cd frontend
 npm start
 ```
-#### Iniciando mobile
+#### Starting mobile
 ```sh
 cd mobile
 npm start
