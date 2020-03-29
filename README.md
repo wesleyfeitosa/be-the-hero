@@ -21,10 +21,11 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-technologies"> :rocket: Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">💻 Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">🤔 How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-run">🔖 How to run</a>&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies"> :rocket: Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-project">💻 Project</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-deploy">:hammer: Deploy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-how-to-contribute">🤔 How to contribute</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-how-to-run">🔖 How to run</a>&nbsp;&nbsp;
 </p>
 
 <br>
@@ -45,6 +46,10 @@ This project was developed with the following technologies:
 ## 💻 Project
 
 Be The Hero is a project that makes it easier for heroes to save the day, making it possible for users to view cases published by ONGs and contact them via E-mail or WhatsApp, or in the case of an ONG, register and find a hero.
+
+## :hammer: Deploy
+
+- Backend: https://be-the-hero69.herokuapp.com
 
 ## 🤔 How to contribute
 
