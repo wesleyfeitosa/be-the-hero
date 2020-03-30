@@ -7,21 +7,19 @@
 </h4>
 
 <p align="center">
-  <a href="#">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wesleyfeitosa/be-the-hero">
-  </a>
+  <img alt="License" src="https://img.shields.io/github/license/wesleyfeitosa/be-the-hero?style=flat-square">
 
-  <a href="#">
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/wesleyfeitosa/be-the-hero">
-  </a>
+  <img alt="Issues" src="https://img.shields.io/github/issues/wesleyfeitosa/be-the-hero?style=flat-square">
+
+  <img alt="Stars" src="https://img.shields.io/github/stars/wesleyfeitosa/be-the-hero?style=flat-square">
   
-  <a href="https://github.com/wesleyfeitosa/be-the-hero/commits/master">
+  <!-- <a href="https://github.com/wesleyfeitosa/be-the-hero/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wesleyfeitosa/be-the-hero">
   </a>
 
   <a href="https://github.com/wesleyfeitosa/be-the-hero/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/wesleyfeitosa/be-the-hero">
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
