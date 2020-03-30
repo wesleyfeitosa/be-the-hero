@@ -7,9 +7,13 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wesleyfeitosa/be-the-hero">
+  <a href="#">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wesleyfeitosa/be-the-hero">
+  </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wesleyfeitosa/be-the-hero">
+  <a href="#">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/wesleyfeitosa/be-the-hero">
+  </a>
   
   <a href="https://github.com/wesleyfeitosa/be-the-hero/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wesleyfeitosa/be-the-hero">
@@ -50,6 +54,7 @@ Be The Hero is a project that makes it easier for heroes to save the day, making
 ## :hammer: Deploy
 
 - Backend: https://be-the-hero69.herokuapp.com
+- Frontend: https://stupefied-yalow-ad3bb2.netlify.com
 
 ## 🤔 How to contribute
 
