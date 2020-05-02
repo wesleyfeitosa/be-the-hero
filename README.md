@@ -52,7 +52,7 @@ Be The Hero is a project that makes it easier for heroes to save the day, making
 ## :hammer: Deploy
 
 - Backend: https://be-the-hero69.herokuapp.com
-- Frontend: https://stupefied-yalow-ad3bb2.netlify.com
+- Frontend: http://be-the-hero.wesleyfeitosa.com.br/
 
 ## 🤔 How to contribute
 
