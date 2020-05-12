@@ -23,18 +23,10 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-technologies"> :rocket: Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-project">💻 Project</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-deploy">:hammer: Deploy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-how-to-contribute">🤔 How to contribute</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-how-to-run">🔖 How to run</a>&nbsp;&nbsp;
-</p>
-
-<br>
-
-<p align="center">
   <img alt="Frontend" src="frontend/src/assets/banner.png" width="100%">
 </p>
+
+---
 
 ## :rocket: Technologies
 
@@ -52,7 +44,7 @@ Be The Hero is a project that makes it easier for heroes to save the day, making
 ## :hammer: Deploy
 
 - Backend: https://be-the-hero69.herokuapp.com
-- Frontend: https://stupefied-yalow-ad3bb2.netlify.com
+- Frontend: https://be-the-hero.wesleyfeitosa.com.br/
 
 ## 🤔 How to contribute
 
