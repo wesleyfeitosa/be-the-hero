@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img alt="Frontend" src="frontend/src/assets/banner.png" width="100%">
+  <img alt="Frontend" src="web/src/assets/banner.png" width="100%">
 </p>
 
 ---
@@ -80,7 +80,7 @@ npm start
 ```
 
 <p align="center">
-  <img alt="Frontend" src="frontend/src/assets/heroes.png" width="596px" height="574px">
+  <img alt="Frontend" src="web/src/assets/heroes.png" width="596px" height="574px">
 </p>
 
 ---
